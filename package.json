@@ -9,7 +9,7 @@
     "hammerjs": "2.0.8",
     "@types/node": "9.6.14",
     "@angular/cdk": "6.0.1",
-    "@angular/core": "6.0.0",
+    "@angular/core": "11.0.5",
     "@angular/http": "6.0.0",
     "@angular/forms": "6.0.0",
     "@types/jasmine": "2.8.7",
